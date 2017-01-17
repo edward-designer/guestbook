@@ -1,0 +1,15 @@
+{
+    "name": "edward/guestbook",
+    "description": "A guestbook demo app",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Edward",
+            "email": "cwchung@hkbu.edu.hk"
+        }
+    ],
+    "require": {
+        "catfan/medoo": "^1.1"
+    }
+}
